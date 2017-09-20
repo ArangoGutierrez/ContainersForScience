@@ -179,7 +179,7 @@ or
 ```
 $ docker rm -f myfirstapp
 ```
-### 2.3.5 Dockerfile commands summary
+### 1.2.4 Dockerfile commands summary
 
 Here's a quick summary of the few basic commands we used in our Dockerfile.
 

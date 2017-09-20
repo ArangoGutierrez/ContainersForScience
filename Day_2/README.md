@@ -1,11 +1,13 @@
 # Day 2
+
+### 2.1 Hans on Containers
 Now that you have a better understanding of images, it's time to get creative.
 
-- [Developing a Simple Web App](#21-Developing-a-Simple-Web-App)
-- [Build A Multi-OS App](#22-Developing-a-Multi_OS-web-app)
-- [Running a Registry Container in Linux](#23-Running-a-Registry-Container-in-Linux)
+- [Developing a Simple Web App](#211-Developing-a-Simple-Web-App)
+- [Build A Multi_OS App](#212-Developing-a-Multi_OS-web-app)
+- [Running a Registry Container in Linux](#213-Running-a-Registry-Container-in-Linux)
 
-### 2.1 Developing a Simple Web App
+### 2.1.1 Developing a Simple Web App
 Great! So you have now looked at `docker run`, played with a Docker container and also got the hang of some terminology. Armed with all this knowledge, you are now ready to get to the real stuff;
 deploying web applications with Docker.
 
@@ -110,13 +112,13 @@ $ docker ps
 CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
 ```
 
-### 2.2 Developing a Multi_OS web app
+### 2.1.2 Developing a Multi_OS web app
 Example Docker Compose app
 Let head to Docker examples repo!
 
 [Voting App](https://github.com/dockersamples/example-voting-app)
 
-### 2.3 Running a Registry Container in Linux
+### 2.1.3 Running a Registry Container in Linux
 
 There are several ways to run a registry container. The simplest is to run an insecure registry over HTTP, but for that we need to configure Docker to explicitly allow insecure access to the registry.
 
