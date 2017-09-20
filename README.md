@@ -54,11 +54,10 @@ Keywords:
 
 ### Day 2
 
- - Singularity containers
- - Introduction to singularity commands
- - Building an image
- - Singularity Hub
- - Running a MPI process
+ - Developing a Simple Web App
+ - Developing a Multi-OS web app
+ - Deploy a local Image Registry
+ - Q & A
 
 ## Audience profile
 This meeting aim is the education and formation of computer science researchers, IT professionals, system administrators, computer science researchers and engineer students, able to propose solutions for distributed systems and HPC problems in their projects, or whose research will use/develop HPC or cloud computing applications.
